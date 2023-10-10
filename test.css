@@ -1,0 +1,13 @@
+body{
+	background: linear-gradient(45deg, #000000, #030344);
+	color: bisque;
+	font-size: 30px;
+}
+.streak{
+	position:absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 90px;
+
+}
